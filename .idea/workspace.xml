@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff6a6f7f-95cf-4fe0-a9bd-f2a0e6ded220" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/controllers/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/controllers/BaseControllerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/controllers/LocalidadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/BaseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/LocalidadServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/PersonaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/PersonaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/PersonaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/controllers/PersonaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/controllers/PersonaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/entities/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/entities/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/AutorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/AutorRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/DomicilioRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/LibroRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/LocalidadRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/LocalidadRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/PersonaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/repositories/PersonaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/AutorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/AutorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/DomicilioService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/LibroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/AutorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/LocalidadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/LocalidadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/PersonaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/persona/servicies/PersonaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Persona" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mChIxBAnpTg5G8RfLLe4paJRPq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Persona.executor": "Run",
+    "HTTP Request.generated-requests | #1.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.PersonaApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucho/OneDrive - alumnos.frm.utn.edu.ar/UTN/DESAROLLO DE SOFTWARE/TPS/Persona",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.persona.controllers" />
+      <recent name="org.example.persona.servicies" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PersonaApplication">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="PersonaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Persona.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.persona.PersonaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6a6f7f-95cf-4fe0-a9bd-f2a0e6ded220" name="Changes" comment="" />
+      <created>1726586394254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726586394254</updated>
+      <workItem from="1726586395439" duration="8728000" />
+      <workItem from="1726595423090" duration="3509000" />
+      <workItem from="1726687288904" duration="4385000" />
+      <workItem from="1726789148075" duration="1643000" />
+      <workItem from="1726835655773" duration="4529000" />
+      <workItem from="1726956636033" duration="3328000" />
+      <workItem from="1727287097615" duration="28000" />
+      <workItem from="1727547673459" duration="2561000" />
+      <workItem from="1727618986748" duration="5558000" />
+      <workItem from="1727643850646" duration="4952000" />
+      <workItem from="1727698900041" duration="2147000" />
+      <workItem from="1727701223147" duration="3246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/persona/servicies/BaseServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
